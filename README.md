@@ -1,1 +1,1 @@
-# POS-Tagging-and-sentiment-analysis-using-finite-state-macine
+# POS-Tagging-and-sentiment-analysis-using-finite-state-machine
